@@ -1,0 +1,3 @@
+Exportar el archivo educativo.sql para obtener las tablas de la base de datos llamada educativodb
+
+abrir el archivo llamado login.html que es la vista principal, colocar cualquier correo y cualquier contraseña y presionar login
